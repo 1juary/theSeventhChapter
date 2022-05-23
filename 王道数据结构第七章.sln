@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "中级-day9作业", "中级
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project1自己实现顺序查找与折半查找", "Project1自己实现顺序查找与折半查找\Project1自己实现顺序查找与折半查找.vcxproj", "{EB85121A-2A5A-4927-8FC3-F020A430280B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project1自己实现KMP", "Project1自己实现KMP\Project1自己实现KMP.vcxproj", "{F83D62A2-229A-4A92-A19B-E468B7FA270C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -77,6 +79,14 @@ Global
 		{EB85121A-2A5A-4927-8FC3-F020A430280B}.Release|Win32.Build.0 = Release|Win32
 		{EB85121A-2A5A-4927-8FC3-F020A430280B}.Release|x64.ActiveCfg = Release|x64
 		{EB85121A-2A5A-4927-8FC3-F020A430280B}.Release|x64.Build.0 = Release|x64
+		{F83D62A2-229A-4A92-A19B-E468B7FA270C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F83D62A2-229A-4A92-A19B-E468B7FA270C}.Debug|Win32.Build.0 = Debug|Win32
+		{F83D62A2-229A-4A92-A19B-E468B7FA270C}.Debug|x64.ActiveCfg = Debug|x64
+		{F83D62A2-229A-4A92-A19B-E468B7FA270C}.Debug|x64.Build.0 = Debug|x64
+		{F83D62A2-229A-4A92-A19B-E468B7FA270C}.Release|Win32.ActiveCfg = Release|Win32
+		{F83D62A2-229A-4A92-A19B-E468B7FA270C}.Release|Win32.Build.0 = Release|Win32
+		{F83D62A2-229A-4A92-A19B-E468B7FA270C}.Release|x64.ActiveCfg = Release|x64
+		{F83D62A2-229A-4A92-A19B-E468B7FA270C}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
