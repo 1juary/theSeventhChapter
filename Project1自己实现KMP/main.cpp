@@ -15,8 +15,8 @@ int Index(SString S, SString T) {
 			j = 1;                 //指针后退，重新匹配
 		}
 	}
-	if (j > T[0]) {
-		return i - T[0];//匹配开始的位置
+	if (j > T[0]) {               //匹配成功
+		return i - T[0];          //匹配开始的位置
 	}
 	else
 		return 0;
