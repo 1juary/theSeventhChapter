@@ -11,8 +11,8 @@ int Index(SString S, SString T) {
 			++i; ++j;
 		}
 		else {
-			i = i - j + 2;
-			j = 1;//指针后退，重新匹配
+			i = i - j + 2;          // 指针后退的方式，很重要
+			j = 1;                 //指针后退，重新匹配
 		}
 	}
 	if (j > T[0]) {
